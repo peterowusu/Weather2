@@ -56,7 +56,7 @@ A beautiful, modern weather dashboard web app that shows real-time weather, 5-da
 - Font Awesome for icons
 
 ## Credits
-- Developed by [peterowusu](https://github.com/peterowusu)
+- Developed by [peterowusu](https://github.com/peterowusu) and [kelveloper]
 - Weather data from [OpenWeatherMap](https://openweathermap.org/)
 
 ## License
